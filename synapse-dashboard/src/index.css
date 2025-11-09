@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@config "../tailwind.config.js";
+
+body {
+  @apply flex items-center justify-center min-h-screen bg-black text-blue-400 text-5xl font-bold;
+}

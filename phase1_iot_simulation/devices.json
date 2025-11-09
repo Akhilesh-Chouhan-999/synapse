@@ -1,0 +1,7 @@
+[
+  { "device_id": "sensor_01", "location": "Factory-A" },
+  { "device_id": "sensor_02", "location": "Factory-B" },
+  { "device_id": "sensor_03", "location": "Warehouse-1" },
+  { "device_id": "sensor_04", "location": "Warehouse-2" },
+  { "device_id": "sensor_05", "location": "ColdStorage" }
+]

@@ -1,0 +1,26 @@
+version: '3.8'
+services:
+  mosquitto:
+    image: eclipse-mosquitto
+    ports:
+      - "1883:1883"
+
+  python-worker:
+    build:
+      context: ./python-worker
+    command: python app.py
+    ports:
+      - "5000:5000"
+
+  edge:
+    build: .
+    environment:
+      - DEV_MODE=true
+      - SHARED_SECRET=supersecret
+      - AI_CONTROLLER_URL=http://python-worker:5000/analyze
+      - MQTT_URL=mqtt://mosquitto:1883
+    ports:
+      - "4000:4000"
+    depends_on:
+      - mosquitto
+      - python-worker

@@ -1,0 +1,202 @@
+[
+  {
+    "eventType": "EDGE_VALIDATED",
+    "timestamp": 1762667165691,
+    "sensorId": "sensor_01",
+    "validated": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "latency": 21
+  },
+  {
+    "eventType": "BLOCK_ADDED",
+    "timestamp": 1762667165691,
+    "sensorId": "sensor_01",
+    "data": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "hash": "blk_8j24kr"
+  },
+  {
+    "eventType": "EDGE_VALIDATED",
+    "timestamp": 1762667194149,
+    "sensorId": "sensor_01",
+    "validated": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "latency": 4
+  },
+  {
+    "eventType": "BLOCK_ADDED",
+    "timestamp": 1762667194150,
+    "sensorId": "sensor_01",
+    "data": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "hash": "blk_3266ur"
+  },
+  {
+    "eventType": "EDGE_VALIDATED",
+    "timestamp": 1762667310811,
+    "sensorId": "sensor_01",
+    "validated": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "latency": 2
+  },
+  {
+    "eventType": "BLOCK_ADDED",
+    "timestamp": 1762667310811,
+    "sensorId": "sensor_01",
+    "data": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "hash": "blk_l0qupc"
+  },
+  {
+    "eventType": "EDGE_VALIDATED",
+    "timestamp": 1762667457352,
+    "sensorId": "sensor_01",
+    "validated": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "latency": 3
+  },
+  {
+    "eventType": "BLOCK_ADDED",
+    "timestamp": 1762667457352,
+    "sensorId": "sensor_01",
+    "data": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "hash": "blk_c9jpzo"
+  },
+  {
+    "eventType": "EDGE_VALIDATED",
+    "timestamp": 1762667467168,
+    "sensorId": "sensor_01",
+    "validated": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "latency": 5
+  },
+  {
+    "eventType": "BLOCK_ADDED",
+    "timestamp": 1762667467169,
+    "sensorId": "sensor_01",
+    "data": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "hash": "blk_0893ez"
+  },
+  {
+    "eventType": "EDGE_VALIDATED",
+    "timestamp": 1762667468835,
+    "sensorId": "sensor_01",
+    "validated": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "latency": 3
+  },
+  {
+    "eventType": "BLOCK_ADDED",
+    "timestamp": 1762667468835,
+    "sensorId": "sensor_01",
+    "data": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "hash": "blk_1b6s1u"
+  },
+  {
+    "eventType": "EDGE_VALIDATED",
+    "timestamp": 1762667470559,
+    "sensorId": "sensor_01",
+    "validated": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "latency": 3
+  },
+  {
+    "eventType": "BLOCK_ADDED",
+    "timestamp": 1762667470559,
+    "sensorId": "sensor_01",
+    "data": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "hash": "blk_f5257f"
+  },
+  {
+    "eventType": "EDGE_VALIDATED",
+    "timestamp": 1762667471882,
+    "sensorId": "sensor_01",
+    "validated": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "latency": 3
+  },
+  {
+    "eventType": "BLOCK_ADDED",
+    "timestamp": 1762667471882,
+    "sensorId": "sensor_01",
+    "data": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "hash": "blk_hz90q6"
+  },
+  {
+    "eventType": "EDGE_VALIDATED",
+    "timestamp": 1762667472364,
+    "sensorId": "sensor_01",
+    "validated": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "latency": 7
+  },
+  {
+    "eventType": "BLOCK_ADDED",
+    "timestamp": 1762667472364,
+    "sensorId": "sensor_01",
+    "data": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "hash": "blk_vyuzu7"
+  },
+  {
+    "eventType": "EDGE_VALIDATED",
+    "timestamp": 1762667822687,
+    "sensorId": "sensor_01",
+    "validated": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "latency": 4
+  },
+  {
+    "eventType": "BLOCK_ADDED",
+    "timestamp": 1762667822688,
+    "sensorId": "sensor_01",
+    "data": {
+      "temp": 22.5,
+      "humidity": 45
+    },
+    "hash": "blk_s6m35l"
+  }
+]
